@@ -88,7 +88,7 @@ Of a bicycle built for two.";
 }
 
 // This just echoes the chosen line, we'll position it later
-function goodby_hal() {
+function goodbye_hal() {
 	$chosen = goodbye_hal_get_lyric();
 	echo "<p id='dolly'>$chosen</p>";
 }
