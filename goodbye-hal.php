@@ -9,7 +9,7 @@ Plugin URI: https://github.com/JeffSchering/goodbye-hal
 Description: Based on the famous plugin 'Hello Dolly' by Matt Mullenweg, Goodbye HAL works just like it except that the lyrics are for the song Daisy Bell, which HAL 9000 sang as he was being de-activated in the movie '2001: A Space Odyssey'.
 Version: 1.0
 Author: Jeff Schering
-Author URI: https://github.com/JeffSchering
+Author URI: https://wordpress.org/support/profile/jeffsch
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
