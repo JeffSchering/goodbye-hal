@@ -1,7 +1,7 @@
 # Goodbye HAL #
-Contributors: Jeff Schering
-Requires at least: 3.0
-Stable tag: 1.6
+Contributors: Jeff Schering  
+Requires at least: 3.0  
+Stable tag: 1.6  
 Tested up to: 4.5.3
 
 ## Description ##
