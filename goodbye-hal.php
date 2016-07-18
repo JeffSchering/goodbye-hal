@@ -14,7 +14,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
 
-function goodby_hal_get_lyric() {
+function goodbye_hal_get_lyric() {
 	/** These are the lyrics to Daisy Bell */
 	$lyrics = "There is a flower
 Within my heart,
