@@ -1,11 +1,11 @@
-=== Hello Dolly ===
-Contributors: matt
+# Goodbye HAL #
+Contributors: Jeff Schering
 Requires at least: 3.0
 Stable tag: 1.6
-Tested up to: 4.1
+Tested up to: 4.5.3
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
+## Description ##
 
-== Description ==
+Daisy, Daisy, I'm half crazy all for the love of you.
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+This is just a plugin. It works like the famous Hello Dolly plugin, except that the lyrics are for the song Daisy Bell, which [HAL 9000](https://en.wikipedia.org/wiki/HAL_9000) sang as he was being de-activated in the movie <cite>2001: A Space Odyssey</cite>. When this plugin is activated, you'll see a random line from the Daisy Bell lyrics in the upper right of your admin screen.
